@@ -26,12 +26,12 @@
       <![CDATA[this is after of after class]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-05-04T03:14:45Z" name="Suite" finished-at="2022-05-04T03:15:00Z" duration-ms="14225">
+  <suite started-at="2022-05-04T11:40:59 IST" name="Default suite" finished-at="2022-05-04T11:41:15 IST" duration-ms="15755">
     <groups>
     </groups>
-    <test started-at="2022-05-04T03:14:45Z" name="Test" finished-at="2022-05-04T03:15:00Z" duration-ms="14225">
+    <test started-at="2022-05-04T11:40:59 IST" name="Default test" finished-at="2022-05-04T11:41:15 IST" duration-ms="15755">
       <class name="com.learnautomation.testcases.LoginTestCRM">
-        <test-method is-config="true" signature="setUPExcel()[pri:0, instance:com.learnautomation.testcases.LoginTestCRM@6fa51cd4]" started-at="2022-05-04T03:14:44Z" name="setUPExcel" finished-at="2022-05-04T03:14:45Z" duration-ms="1102" status="PASS">
+        <test-method is-config="true" signature="setUPExcel()[pri:0, instance:com.learnautomation.testcases.LoginTestCRM@5119fb47]" started-at="2022-05-04T11:40:59 IST" name="setUPExcel" finished-at="2022-05-04T11:40:59 IST" duration-ms="763" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[this is before suite]]>
@@ -41,7 +41,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUPExcel -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.learnautomation.testcases.LoginTestCRM@6fa51cd4]" started-at="2022-05-04T03:14:45Z" name="setUp" finished-at="2022-05-04T03:14:57Z" duration-ms="12088" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.learnautomation.testcases.LoginTestCRM@5119fb47]" started-at="2022-05-04T11:40:59 IST" name="setUp" finished-at="2022-05-04T11:41:14 IST" duration-ms="14359" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[this is starting of before class]]>
@@ -51,15 +51,15 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginApp()[pri:0, instance:com.learnautomation.testcases.LoginTestCRM@6fa51cd4]" started-at="2022-05-04T03:14:57Z" name="loginApp" finished-at="2022-05-04T03:14:58Z" duration-ms="639" status="PASS">
+        <test-method signature="loginApp()[pri:0, instance:com.learnautomation.testcases.LoginTestCRM@5119fb47]" started-at="2022-05-04T11:41:14 IST" name="loginApp" finished-at="2022-05-04T11:41:14 IST" duration-ms="278" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginApp -->
-        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.learnautomation.testcases.LoginTestCRM@6fa51cd4]" started-at="2022-05-04T03:14:58Z" name="tearDownMethod" finished-at="2022-05-04T03:14:59Z" duration-ms="754" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.learnautomation.testcases.LoginTestCRM@5119fb47]" started-at="2022-05-04T11:41:14 IST" name="tearDownMethod" finished-at="2022-05-04T11:41:15 IST" duration-ms="697" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=loginApp status=SUCCESS method=LoginTestCRM.loginApp()[pri:0, instance:com.learnautomation.testcases.LoginTestCRM@6fa51cd4] output={null}]]]>
+                <![CDATA[[TestResult name=loginApp status=SUCCESS method=LoginTestCRM.loginApp()[pri:0, instance:com.learnautomation.testcases.LoginTestCRM@5119fb47] output={null}]]]>
               </value>
             </param>
           </params>
@@ -72,7 +72,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.learnautomation.testcases.LoginTestCRM@6fa51cd4]" started-at="2022-05-04T03:14:59Z" name="tearDown" finished-at="2022-05-04T03:15:00Z" duration-ms="728" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.learnautomation.testcases.LoginTestCRM@5119fb47]" started-at="2022-05-04T11:41:15 IST" name="tearDown" finished-at="2022-05-04T11:41:15 IST" duration-ms="380" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[this is starting of after class]]>
@@ -83,6 +83,6 @@
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.learnautomation.testcases.LoginTestCRM -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
